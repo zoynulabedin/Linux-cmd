@@ -1,0 +1,4 @@
+#1 Make folder # sudo mkdir  Newfolder
+#2 Make file   # sudo touch file.txt 
+
+#1 Delete Folder # 
